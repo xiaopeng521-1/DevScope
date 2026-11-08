@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="app-icon.png" width="88" alt="DevScope 图标" />
-
 # DevScope
 
 **看清应用装在哪里，管理开发环境，清理卸载残留。**
